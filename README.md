@@ -6,11 +6,11 @@ My path into tech started in political organizing: field work on the Obama campa
 
 ## How I build
 
-I've been building with LLMs since late 2022, and most of what I ship now is written by coding agents that I direct, review, and constrain. [Agent Harness](https://github.com/JakeSelby/agent-harness) is that working method, open-sourced: one set of rules, guardrails, and switchable opinions that follows me across Claude Code and Codex. Every project below is built with it.
+I've been building with LLMs since late 2022, and most of what I ship now is written by coding agents that I direct, review, and constrain. [Model Citizen](https://github.com/JakeSelby/model-citizen) is that working method, open-sourced: one set of rules, guardrails, and switchable opinions that follows me across Claude Code and Codex. Every project below is built with it.
 
 ## What I'm building
 
-- **[Agent Harness](https://github.com/JakeSelby/agent-harness)** — reusable rules, skills, and hooks for coding agents. My main open-source project. [Browse the reference](https://agent-harness.jakeselby.com/).
+- **[Model Citizen](https://github.com/JakeSelby/model-citizen):** the control plane for your coding agents, however you run them. My main open-source project. [Browse the reference](https://model-citizen.dev/).
 - **[Sovereign](https://sovereign.jakeselby.com/)** — a whole-Earth grand-strategy game about power and consequence, in development.
 - **[Cortex](https://cortex.jakeselby.com/pitch/builders) and [Consul](https://consul.jakeselby.com/pitch)** — exploring how AI can remember what matters, follow your rules, and earn the right to act on your behalf; with a personal assistant built on that foundation.
 - **[Groundwork](https://groundwork.jakeselby.com/demo)** — field-organizing tools for progressive campaigns, including canvassing and offline mobile workflows.
